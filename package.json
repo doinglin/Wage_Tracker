@@ -1,5 +1,5 @@
 {
-  "homepage": "https://doinglin.github.io/Wage_Tracker_v2",
+  "homepage": "https://doinglin.github.io/Wage_Tracker",
   "description": "A web application to track wages and expenses, built with React and styled-components.",
   "name": "wage-tracker",
   "version": "1.0.0",
